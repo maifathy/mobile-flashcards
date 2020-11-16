@@ -7,6 +7,7 @@
 - User can add decks, question and take multiple quizzes everyday.
 - Daily notification to notify the user to take a quiz is implemented, also the notification time is
   updated after each quiz the user take.
+- The project is tested on Android only.
 
 ## How to use
 
